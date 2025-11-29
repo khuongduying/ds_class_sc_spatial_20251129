@@ -1,0 +1,6 @@
+# large data
+data/singlecell/processed_counts/*.csv
+data/singlecell/processed_counts/*.rds
+
+data/singlecell/results/*.rds
+
